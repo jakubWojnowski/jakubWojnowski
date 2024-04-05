@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ProfesiNet where I'm implementing modular monolith
-- 🌱 I’m currently learning Modular Monolith Architecture 
+- 🔭 I’m currently working on few Projects involving studies on gRPC and Dapper
 - 👯 I’m looking to collaborate in .Net Projects
 - 💬 Ask me about C#, .Net
   
