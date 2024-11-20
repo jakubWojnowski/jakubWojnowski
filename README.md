@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on few Projects involving studies on gRPC and Dapper
+- 🔭 I’m currently working on few Projects involving studies on angular and python
 - 👯 I’m looking to collaborate in .Net Projects
 - 💬 Ask me about C#, .Net
   
